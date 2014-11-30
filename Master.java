@@ -3,6 +3,6 @@ public class Master {
 
 	System.out.println("Pierpaolo");
 	System.out.println("Ciao");
-	System.out.println("Simon SP e' il vero Master");
+	System.out.println("Simon SP e' il vero Slave");
    }
 }
