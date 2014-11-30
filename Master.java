@@ -5,5 +5,6 @@ public class Master {
 	System.out.println("Ciao");
 	System.out.println("Simon SP e' il vero Master");
 	System.out.println("Android e' meglio dell'Apple AMAMAMAMAMAMA");
+	System.out.println("Strunz");
    }
 }
